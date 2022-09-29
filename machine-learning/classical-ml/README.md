@@ -6,3 +6,4 @@ Work includes:
 - [decision tree regression](decision_tree_regression.ipynb)
 - [random forest regression](random_forest_regression.ipynb)
 - [k-nearest neighbors](knn_classification.ipynb)
+- [logistic regression](logistic_regression.ipynb)
