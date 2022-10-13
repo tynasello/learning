@@ -1,0 +1,7 @@
+*.json linguist-detectable=false
+*.md linguist-detectable=false
+*.anim linguist-detectable=false
+*.prefab linguist-detectable=false
+*.html linguist-detectable=false
+*.pug linguist-detectable=false
+*.css linguist-detectable=false

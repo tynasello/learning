@@ -1,0 +1,2 @@
+Implementing the observer design pattern in Kotlin. The observer pattern defines a one-to-many (one subject to many observers) relationship between
+objects. When the subject's state changes, all of its observers are automatically notified.
