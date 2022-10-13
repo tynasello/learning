@@ -1,0 +1,1 @@
+Implementing the decorator design pattern in Java. The decorator pattern allows functionality to be dynamically added to an object via composition. Additional behavour is added indirectly of said object.
