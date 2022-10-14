@@ -7,3 +7,4 @@ Work includes:
 - [random forest regression](random_forest_regression.ipynb)
 - [k-nearest neighbors](knn_classification.ipynb)
 - [logistic regression](logistic_regression.ipynb)
+- [naive bayes classification](naive_bayes.ipynb)
