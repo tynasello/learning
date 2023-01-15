@@ -2,6 +2,7 @@ Practice for some of the things that I am learning.
 
 Recent:
 
+- Rust CLI clock app
 - Simple gRPC todo app
 - Swift/SwiftUI country guessing app
 - Implementing Observer pattern and decorator pattern
