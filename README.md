@@ -4,6 +4,7 @@ Recent:
 
 - Rust CLI clock app
 - Simple gRPC todo app
+- Python letter generation
 - Swift/SwiftUI country guessing app
 - Implementing Observer pattern and decorator pattern
 - Lexical analysis in C
