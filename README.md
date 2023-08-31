@@ -8,6 +8,7 @@ Recent:
 - Implementing Observer pattern and decorator pattern
 - Lexical analysis in C
 - Classical ML algorithms
+- OTW bandit challenges
 - RNNs
 - CNNs
 - NestJS APIs using GraphQL
